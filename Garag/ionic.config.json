@@ -1,5 +1,7 @@
 {
   "name": "Garag",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
